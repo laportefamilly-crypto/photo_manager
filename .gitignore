@@ -1,0 +1,12 @@
+# Configuration utilisateur (chemins locaux)
+config.json
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
